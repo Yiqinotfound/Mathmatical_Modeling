@@ -3,8 +3,12 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+plt.rcParams['font.sans-serif'] = ['SimHei']  
+# Matplotlib中设置字体-黑体，解决Matplotlib中文乱码问题
+plt.rcParams['axes.unicode_minus'] = False    
+# 解决Matplotlib坐标轴负号'-'显示为方块的问题
 
-N = 50
+N = 2000
 # 男女偏好矩阵
 np.random.seed(3)
 wpref1 = np.random.rand(N,N)
@@ -49,8 +53,14 @@ mmatch = [False]*N
 reject = [[False]*N for _ in range(N)]
 
 # 开始配对
-pursuers_matrix = [[] for _ in range(N)]
+pursuers_matrix = [[] for _ in range(N)] # 每个女生的追求者矩阵
+mmatch_dic = {} # 男生的匹配字典
+wmatch_dic = {} # 女生的匹配字典
+round = 0
+m_score = []  # 男生对象的得分
+w_score = []  # 女生对象的得分
 while(True):
+    round += 1
     if False not in mmatch:
         break
     # 男生的一轮追求：
@@ -81,27 +91,51 @@ while(True):
                 mmatch[best_boy] = True
                 pursuers_matrix[i] = []
                 pursuers_matrix[i].append(best_boy)
+                mmatch_dic[best_boy] = i
+                wmatch_dic[i] = best_boy
             else: # 有匹配
                 if not pursuers_matrix[i][0] == best_boy: # 如果best-boy不是原来的匹配者，直接抛弃
                     mmatch[pursuers_matrix[i][0]] = False 
+                    mmatch_dic.pop(pursuers_matrix[i][0])
                     reject[pursuers_matrix[i][0]][i] = True # pursuers_matrix[i][0]被女生i拒绝
                     mmatch[best_boy] = True
-                    pursuers_matrix[i] = []
-                    pursuers_matrix[i].append(best_boy)
+                    pursuers_matrix[i] = [best_boy]
+                    mmatch_dic[best_boy] = i
+                    wmatch_dic[i] = best_boy
                 else: # 如果是原来的匹配者，只需重置pursuers_matrix[i]，并拒绝剩下的追求者
                     for pursuer in pursuers_matrix[i]:
                         if pursuer == best_boy:
                             continue
                         else:
                             reject[pursuer][i] = True
-                    pursuers_matrix[i] = [] 
-                    pursuers_matrix[i].append(best_boy)
+                    pursuers_matrix[i] = [best_boy] 
+                    
                     
                 
         else:
             continue
         
-# 生成匹配结果矩阵 match_result[i][j]表示女生j是否和男生i匹配
+    # 每一轮配对后，记录每个男生的匹配对象的平均得分，没有对象的不计算，记录每个女生匹配对象的平均得分，没有对象的不计算
+    sum_score1 ,sum_score2 = 0,0
+    cnt_1,cnt_2 = 0,0
+    for i in range(N):
+        if mmatch[i] == True:
+            cnt_1 += 1
+            sum_score1 += mpref1[i][mmatch_dic[i]]
+        
+        if wmatch[i] == True:
+            cnt_2 += 1
+            sum_score2 += wpref1[i][wmatch_dic[i]]
+    
+    m_score.append(sum_score1/cnt_1)
+    w_score.append(sum_score2/cnt_2)
+    
+   
+    
+        
+        
+        
+# 生成匹配结果矩阵 match_result[i][j]表示女生j是否和男生i匹配（现在match_matrix和match_result是一样的）
 
 match_result = [[0 for _ in range(N)] for _ in range(N)]
 for i in range(N):
@@ -119,8 +153,8 @@ x_2 = [0.5] * N
 
 # 绘制点的散点图
 fig = plt.figure(figsize=(5, 20))
-plt.scatter(x_1, y, c='b', marker='o', s=50, alpha=0.5,)
-plt.scatter(x_2, y, c='r', marker='o', s=50, alpha=0.5)
+plt.scatter(x_1, y, c='b', marker='o', s=50, alpha=0.5,) # type: ignore
+plt.scatter(x_2, y, c='r', marker='o', s=50, alpha=0.5) # type: ignore
 
 for i in range(N):
     plt.text(x_1[i]-0.1, y[i], str(i+1), fontsize=8, color='b', ha='right', va='center')
@@ -136,4 +170,19 @@ plt.ylim(-1, 4*N)
 
 # 显示图像
 plt.axis('off')
+plt.savefig("test.svg", dpi=300,format="svg")
 plt.show()
+
+# 画出匹配得分图像随着轮数的变化
+print(len(m_score),len(w_score))
+print(round)
+plt.plot(range(1,round),m_score,label = '男生匹配对象得分')
+
+plt.plot(range(1,round),w_score,label = '女生匹配对象得分')
+
+plt.xlabel('轮数')
+plt.ylabel('匹配得分')
+plt.legend()
+plt.show()
+
+
