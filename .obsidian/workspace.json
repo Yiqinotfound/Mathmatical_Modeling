@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "ec14b2a8d30d7354",
+    "type": "split",
+    "children": [
+      {
+        "id": "49fd3308c015ebed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a6aa7329fc7a758",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e8ad92fc3f371e2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd724580d7c5efef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "评价主题/秩和比综合评价法/Introduction.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25898fa3d7a01332",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b70e10729aa22e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0860b7b30ac51632",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "441b37f50b58d774",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7876225598af231e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d1ee4f8a772a780",
+            "type": "leaf",
+            "state": {
+              "type": "book-explorer-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a26131ce205e026e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 204.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ed0296985a0c36c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "44bbcfa9532df5b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5392beb3c38871d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "评价主题/秩和比综合评价法/Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25b312a959befff5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "评价主题/秩和比综合评价法/Introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "400cd3770ab99d02",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a6d73784485f454c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "评价主题/秩和比综合评价法/Introduction.md"
+              }
+            }
+          },
+          {
+            "id": "f715eb0b9af7568b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "random-note:开始漫游笔记": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-booknote-plugin:书库": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "bd724580d7c5efef",
+  "lastOpenFiles": [
+    "Pasted image 20230727093951.png",
+    "Pasted image 20230727093912.png",
+    "评价主题/秩和比综合评价法/Introduction.md",
+    "inbox",
+    "attachments",
+    "性.md",
+    "books/新编大学德语3-朱建华-2012-外语教学与研究出版社--annas-archive.pdf",
+    "books/新编大学德语1-朱建华-2010-外语教学与研究出版社--annas-archive.pdf",
+    "books/新编大学德语2-朱建华-2011-外语教学与研究出版社--annas-archive.pdf",
+    "Dark/S1.md",
+    "Dark",
+    "books",
+    "新建文件夹",
+    "计量经济学/Chapter03多元回归分析：估计.md",
+    "计量经济学/Chapter04多元回归分析：推断.md",
+    "计量经济学/Chapter05多元回归分析：OLS的渐近线.md",
+    "计量经济学/Chapter02简单回归模型.md",
+    "booknote/books-data/(annots)计量经济学导论-现代观点-第六版-已经压缩-已经ocr-文字可搜索复制-已经创建目录-杰佛里-m-4--annas-archive.pdf/p37r463.090,684.560,465.090,686.560z2i(da87788d-79ef-c03f-c5d8-75218209bc94).png",
+    "booknote/books-data/(annots)计量经济学导论-现代观点-第六版-已经压缩-已经ocr-文字可搜索复制-已经创建目录-杰佛里-m-4--annas-archive.pdf/p37r483.730,635.630,485.730,637.630z2i(6bd7af34-707d-401d-d140-38c477c26a2a).png",
+    "计量经济学/Chapter01计量经济学的性质与经济数据.md",
+    "booknote/books-data/(annots)计量经济学导论-现代观点-第六版-已经压缩-已经ocr-文字可搜索复制-已经创建目录-杰佛里-m-4--annas-archive.pdf/p20r139.350,581.310,304.010,630.300z2i(344a92f8-182a-f529-7f3c-1dcb9e54053a).png",
+    "booknote/books-data/(annots)计量经济学导论-现代观点-第六版-已经压缩-已经ocr-文字可搜索复制-已经创建目录-杰佛里-m-4--annas-archive.pdf/p20r153.210,597.100,297.860,608.730z2i(646200a3-af89-7edf-aa14-b164e882e4ab).png",
+    "booknote/books-data/计量经济学导论-现代观点-第六版-已经压缩-已经ocr-文字可搜索复制-已经创建目录-杰佛里-m-4--annas-archive.pdf.xml",
+    "booknote/books-data/(annots)计量经济学导论-现代观点-第六版-已经压缩-已经ocr-文字可搜索复制-已经创建目录-杰佛里-m-4--annas-archive.pdf/p18r326.560,735.900,446.560,784.900z2i(4d30bd88-5719-60d7-a923-f43d810c5b44).png",
+    "booknote/books-data/(annots)计量经济学导论-现代观点-第六版-已经压缩-已经ocr-文字可搜索复制-已经创建目录-杰佛里-m-4--annas-archive.pdf"
+  ]
+}

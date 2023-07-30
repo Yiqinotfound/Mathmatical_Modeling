@@ -1,0 +1,539 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "Softmax": {
+      "Softmax": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1687052095929
+        }
+      }
+    },
+    "softmax": {
+      "softmax": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687054973659
+        }
+      }
+    },
+    "model": {
+      "model": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687055185859
+        }
+      }
+    },
+    "Classification": {
+      "Classification": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1687056691076
+        }
+      }
+    },
+    "regularization": {
+      "regularization": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687136993763
+        }
+      }
+    },
+    "examples": {
+      "examples": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1687401227823
+        }
+      }
+    },
+    "features": {
+      "features": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1687522173024
+        }
+      }
+    },
+    "lambda": {
+      "lambda": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687141809299
+        }
+      }
+    },
+    "总是很小‘’": {
+      "总是很小‘’": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1687142418653
+        }
+      }
+    },
+    "Unregularized": {
+      "Unregularized": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687143457640
+        }
+      }
+    },
+    "dataview": {
+      "dataview": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1687230384402
+        }
+      }
+    },
+    "example": {
+      "example": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687160943483
+        }
+      }
+    },
+    "Projects": {
+      "Projects": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1687162096465
+        }
+      }
+    },
+    "recall": {
+      "recall": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687176240773
+        }
+      }
+    },
+    "disease": {
+      "disease": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687176639533
+        }
+      }
+    },
+    "Class RuntimeException": {
+      "Class RuntimeException": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1687183679680
+        }
+      }
+    },
+    "Tree and BSTs": {
+      "Tree and BSTs": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1687223510732
+        }
+      }
+    },
+    "splitting": {
+      "splitting": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1687229899941
+        }
+      }
+    },
+    "XGBoost": {
+      "XGBoost": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1687229982187
+        }
+      }
+    },
+    "trees": {
+      "trees": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687229869004
+        }
+      }
+    },
+    "implementation": {
+      "implementation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687229876887
+        }
+      }
+    },
+    "Transfer Learning(迁移学习）": {
+      "Transfer Learning(迁移学习）": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1687230424947
+        }
+      }
+    },
+    "微分方程定解问题的yi": {
+      "微分方程定解问题的yi": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687239985249
+        }
+      }
+    },
+    "微分方程定解问题的": {
+      "微分方程定解问题的": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687239987541
+        }
+      }
+    },
+    "centroids": {
+      "centroids": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1687399941353
+        }
+      }
+    },
+    "a_{nn}\\\\": {
+      "a_{nn}\\\\": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687353749862
+        }
+      }
+    },
+    "\\cdots": {
+      "\\cdots": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687354719006
+        }
+      }
+    },
+    "cluster": {
+      "cluster": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1687401411756
+        }
+      }
+    },
+    "dataset": {
+      "dataset": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687410569574
+        }
+      }
+    },
+    "algorithm for tree traversal and node expansion": {
+      "algorithm for tree traversal and node expansion": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1687412740310
+        }
+      }
+    },
+    "Example": {
+      "Example": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687413890840
+        }
+      }
+    },
+    "anomalous": {
+      "anomalous": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687413925322
+        }
+      }
+    },
+    "\\varepsilon": {
+      "\\varepsilon": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687415970955
+        }
+      }
+    },
+    "regression": {
+      "regression": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687499467417
+        }
+      }
+    },
+    "Value based Learning": {
+      "Value based Learning": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1687510638459
+        }
+      }
+    },
+    "Genre": {
+      "Genre": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687522204916
+        }
+      }
+    },
+    "ratings": {
+      "ratings": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687522220563
+        }
+      }
+    },
+    "Content-based filtering（内容-based算法)": {
+      "Content-based filtering（内容-based算法)": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1687524393368
+        }
+      }
+    },
+    "movies": {
+      "movies": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687525692066
+        }
+      }
+    },
+    "country": {
+      "country": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687525725661
+        }
+      }
+    },
+    "feature": {
+      "feature": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1687597490950
+        }
+      }
+    },
+    "explained_variance_ratio": {
+      "explained_variance_ratio": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687743356396
+        }
+      }
+    },
+    "transform": {
+      "transform": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687743384327
+        }
+      }
+    },
+    "X_trans_1": {
+      "X_trans_1": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687743406825
+        }
+      }
+    },
+    "Pca_1": {
+      "Pca_1": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687743558187
+        }
+      }
+    },
+    "Learning": {
+      "Learning": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687745277564
+        }
+      }
+    },
+    "learning": {
+      "learning": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687745791368
+        }
+      }
+    },
+    "return": {
+      "return": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687746118646
+        }
+      }
+    },
+    "policy": {
+      "policy": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687747294191
+        }
+      }
+    },
+    "state transition": {
+      "state transition": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1687757495853
+        }
+      }
+    },
+    "\\theta": {
+      "\\theta": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1687787798777
+        }
+      }
+    },
+    "thruster": {
+      "thruster": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1687787501095
+        }
+      }
+    },
+    "\\dot{x}": {
+      "\\dot{x}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687787782840
+        }
+      }
+    },
+    "\\dot{x}}": {
+      "\\dot{x}}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687787786428
+        }
+      }
+    },
+    "function": {
+      "function": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687787947959
+        }
+      }
+    },
+    "SUM_A": {
+      "SUM_A": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687832330814
+        }
+      }
+    },
+    "x_{n1}": {
+      "x_{n1}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687847994582
+        }
+      }
+    },
+    "Implementation Inheritance": {
+      "Implementation Inheritance": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1687918503420
+        }
+      }
+    },
+    "相关系数": {
+      "相关系数": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1687930888293
+        }
+      }
+    },
+    "在热力图中显示数值": {
+      "在热力图中显示数值": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1687959547294
+        }
+      }
+    },
+    "\\widehat{\\beta_{0}}": {
+      "\\widehat{\\beta_{0}}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1688041106132
+        }
+      }
+    }
+  }
+}

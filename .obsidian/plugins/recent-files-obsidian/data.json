@@ -1,0 +1,207 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Introduction",
+      "path": "评价主题/秩和比综合评价法/Introduction.md"
+    },
+    {
+      "basename": "性",
+      "path": "性.md"
+    },
+    {
+      "basename": "新编大学德语3-朱建华-2012-外语教学与研究出版社--annas-archive",
+      "path": "books/新编大学德语3-朱建华-2012-外语教学与研究出版社--annas-archive.pdf"
+    },
+    {
+      "basename": "新编大学德语1-朱建华-2010-外语教学与研究出版社--annas-archive",
+      "path": "books/新编大学德语1-朱建华-2010-外语教学与研究出版社--annas-archive.pdf"
+    },
+    {
+      "basename": "新编大学德语2-朱建华-2011-外语教学与研究出版社--annas-archive",
+      "path": "books/新编大学德语2-朱建华-2011-外语教学与研究出版社--annas-archive.pdf"
+    },
+    {
+      "basename": "S1",
+      "path": "Dark/S1.md"
+    },
+    {
+      "basename": "Chapter05多元回归分析：OLS的渐近线",
+      "path": "计量经济学/Chapter05多元回归分析：OLS的渐近线.md"
+    },
+    {
+      "basename": "Chapter03多元回归分析：估计",
+      "path": "计量经济学/Chapter03多元回归分析：估计.md"
+    },
+    {
+      "basename": "Chapter04多元回归分析：推断",
+      "path": "计量经济学/Chapter04多元回归分析：推断.md"
+    },
+    {
+      "basename": "Chapter02简单回归模型",
+      "path": "计量经济学/Chapter02简单回归模型.md"
+    },
+    {
+      "basename": "Chapter01计量经济学的性质与经济数据",
+      "path": "计量经济学/Chapter01计量经济学的性质与经济数据.md"
+    },
+    {
+      "basename": "回归分析",
+      "path": "数学建模/回归分析.md"
+    },
+    {
+      "basename": "Transfer Learning(迁移学习）",
+      "path": "CS/机器学习/Advanced Algorithm/Transfer Learning(迁移学习）.md"
+    },
+    {
+      "basename": "Full cycle of a machine learning project",
+      "path": "CS/机器学习/Advanced Algorithm/Full cycle of a machine learning project.md"
+    },
+    {
+      "basename": "Decision Tree Model 决策树模型",
+      "path": "CS/机器学习/Advanced Algorithm/Decision Tree Model 决策树模型.md"
+    },
+    {
+      "basename": "树集成",
+      "path": "CS/机器学习/Advanced Algorithm/树集成.md"
+    },
+    {
+      "basename": "When to use decision trees(什么时候用决策树）",
+      "path": "CS/机器学习/Advanced Algorithm/When to use decision trees(什么时候用决策树）.md"
+    },
+    {
+      "basename": "Skewed Data(数据分布不均衡)",
+      "path": "CS/机器学习/Advanced Algorithm/Skewed Data(数据分布不均衡).md"
+    },
+    {
+      "basename": "Bias and Variance(偏差和方差)",
+      "path": "CS/机器学习/Advanced Algorithm/Bias and Variance(偏差和方差).md"
+    },
+    {
+      "basename": "Advanced Optimization(高级优化）",
+      "path": "CS/机器学习/Advanced Algorithm/Advanced Optimization(高级优化）.md"
+    },
+    {
+      "basename": "其他layer（Additional Layer Types)",
+      "path": "CS/机器学习/Advanced Algorithm/其他layer（Additional Layer Types).md"
+    },
+    {
+      "basename": "Classification with multiple outputs(多种输出）",
+      "path": "CS/机器学习/Advanced Algorithm/Classification with multiple outputs(多种输出）.md"
+    },
+    {
+      "basename": "Activation Functions",
+      "path": "CS/机器学习/Advanced Algorithm/Activation Functions.md"
+    },
+    {
+      "basename": "Implementation in Tensorflow",
+      "path": "CS/机器学习/Advanced Algorithm/Implementation in Tensorflow.md"
+    },
+    {
+      "basename": "Train a Neural Network",
+      "path": "CS/机器学习/Advanced Algorithm/Train a Neural Network.md"
+    },
+    {
+      "basename": "Machine Learning Development Process 还有一些技巧",
+      "path": "CS/机器学习/Advanced Algorithm/Machine Learning Development Process 还有一些技巧.md"
+    },
+    {
+      "basename": "Evaluating a mode(评估模型)、Model Selection(模型选择)",
+      "path": "CS/机器学习/Advanced Algorithm/Evaluating a mode(评估模型)、Model Selection(模型选择).md"
+    },
+    {
+      "basename": "典型相关分析",
+      "path": "数学建模/典型相关分析.md"
+    },
+    {
+      "basename": "皮尔逊相关系数",
+      "path": "数学建模/皮尔逊相关系数.md"
+    },
+    {
+      "basename": "拟合算法",
+      "path": "数学建模/拟合算法.md"
+    },
+    {
+      "basename": "插值法",
+      "path": "数学建模/插值法.md"
+    },
+    {
+      "basename": "TOPSIS法",
+      "path": "数学建模/TOPSIS法.md"
+    },
+    {
+      "basename": "Reinforcement Learning 强化学习简介",
+      "path": "CS/机器学习/Unsupervised Learning,Recommendation,Reinforcemnt learning/Reinforcement Learning 强化学习简介.md"
+    },
+    {
+      "basename": "层次分析法模型",
+      "path": "数学建模/层次分析法模型.md"
+    },
+    {
+      "basename": "Continuous State Spaces（连续状态空间）",
+      "path": "CS/机器学习/Unsupervised Learning,Recommendation,Reinforcemnt learning/Continuous State Spaces（连续状态空间）.md"
+    },
+    {
+      "basename": "Bellman Equation贝尔曼方程",
+      "path": "CS/机器学习/Unsupervised Learning,Recommendation,Reinforcemnt learning/Bellman Equation贝尔曼方程.md"
+    },
+    {
+      "basename": "Random (stochastic) environment 随机环境",
+      "path": "CS/机器学习/Unsupervised Learning,Recommendation,Reinforcemnt learning/Random (stochastic) environment 随机环境.md"
+    },
+    {
+      "basename": "AlphaGo",
+      "path": "CS/机器学习/强化学习/AlphaGo.md"
+    },
+    {
+      "basename": "Actor-Critic Methods",
+      "path": "CS/机器学习/强化学习/Actor-Critic Methods.md"
+    },
+    {
+      "basename": "Policy-Based Reinforcement Learning",
+      "path": "CS/机器学习/强化学习/Policy-Based Reinforcement Learning.md"
+    },
+    {
+      "basename": "Terminology",
+      "path": "CS/机器学习/强化学习/Terminology.md"
+    },
+    {
+      "basename": "Value based Learning",
+      "path": "CS/机器学习/强化学习/Value based Learning.md"
+    },
+    {
+      "basename": "MDP",
+      "path": "Excalidraw/MDP.md"
+    },
+    {
+      "basename": "algorithm for tree traversal and node expansion",
+      "path": "Excalidraw/algorithm for tree traversal and node expansion.md"
+    },
+    {
+      "basename": "Principle Component Analysis PCA",
+      "path": "CS/机器学习/Unsupervised Learning,Recommendation,Reinforcemnt learning/Principle Component Analysis PCA.md"
+    },
+    {
+      "basename": "Making Recommendations(推荐算法)",
+      "path": "CS/机器学习/Unsupervised Learning,Recommendation,Reinforcemnt learning/Making Recommendations(推荐算法).md"
+    },
+    {
+      "basename": "Content-based filtering（内容-based算法)",
+      "path": "CS/机器学习/Unsupervised Learning,Recommendation,Reinforcemnt learning/Content-based filtering（内容-based算法).md"
+    },
+    {
+      "basename": "Machine Leaning algorithms",
+      "path": "CS/机器学习/Machine Leaning algorithms.md"
+    },
+    {
+      "basename": "Collaborative filtering algorithm（协同过滤算法)",
+      "path": "CS/机器学习/Unsupervised Learning,Recommendation,Reinforcemnt learning/Collaborative filtering algorithm（协同过滤算法).md"
+    },
+    {
+      "basename": "Finding related items(寻找相关事物的算法)",
+      "path": "CS/机器学习/Unsupervised Learning,Recommendation,Reinforcemnt learning/Finding related items(寻找相关事物的算法).md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

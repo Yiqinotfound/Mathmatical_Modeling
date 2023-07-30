@@ -8,7 +8,7 @@ plt.rcParams['font.sans-serif'] = ['SimHei']
 plt.rcParams['axes.unicode_minus'] = False    
 # 解决Matplotlib坐标轴负号'-'显示为方块的问题
 
-N = 2000
+N = 1000
 # 男女偏好矩阵
 np.random.seed(3)
 wpref1 = np.random.rand(N,N)

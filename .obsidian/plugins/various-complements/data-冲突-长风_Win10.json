@@ -1,0 +1,1319 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "computational": {
+      "computational": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673916400850
+        }
+      }
+    },
+    "process": {
+      "process": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673916661922
+        }
+      }
+    },
+    "count_partition": {
+      "count_partition": {
+        "currentFile": {
+          "count": 8,
+          "lastUpdated": 1673936291354
+        }
+      }
+    },
+    "with_m": {
+      "with_m": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673918533878
+        }
+      }
+    },
+    "without_m": {
+      "without_m": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673918537822
+        }
+      }
+    },
+    "problems": {
+      "problems": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673936607517
+        }
+      }
+    },
+    "function": {
+      "function": {
+        "currentFile": {
+          "count": 6,
+          "lastUpdated": 1674872294230
+        }
+      }
+    },
+    "argument": {
+      "argument": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674023896828
+        }
+      }
+    },
+    "ping_pong_helper": {
+      "ping_pong_helper": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673937371324
+        }
+      }
+    },
+    "value": {
+      "value": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1674825298368
+        }
+      }
+    },
+    "Recursion": {
+      "Recursion": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674028649205
+        }
+      }
+    },
+    "digit": {
+      "digit": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1673940824447
+        }
+      }
+    },
+    "digits": {
+      "digits": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673940826927
+        }
+      }
+    },
+    "False": {
+      "False": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673940834036
+        }
+      }
+    },
+    "statement": {
+      "statement": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674023384606
+        }
+      }
+    },
+    "Statement": {
+      "Statement": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1674024060607
+        }
+      }
+    },
+    "Comprehension": {
+      "Comprehension": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1673957498955
+        }
+      }
+    },
+    "Pairs": {
+      "Pairs": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673959467735
+        }
+      }
+    },
+    "Lists": {
+      "Lists": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1673959657087
+        }
+      }
+    },
+    "abstraction": {
+      "abstraction": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673961136967
+        }
+      }
+    },
+    "Abstraction": {
+      "Abstraction": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1675131148793
+        }
+      }
+    },
+    "Implented": {
+      "Implented": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673961731797
+        }
+      }
+    },
+    "dictionary": {
+      "dictionary": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1674276690474
+        }
+      }
+    },
+    "Doctests": {
+      "Doctests": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674009104886
+        }
+      }
+    },
+    "whatever": {
+      "whatever": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674009463382
+        }
+      }
+    },
+    "functions": {
+      "functions": {
+        "currentFile": {
+          "count": 6,
+          "lastUpdated": 1674199729321
+        }
+      }
+    },
+    "TypeError": {
+      "TypeError": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674010000567
+        }
+      }
+    },
+    "Exceptions": {
+      "Exceptions": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674023348779
+        }
+      }
+    },
+    "exceptions": {
+      "exceptions": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674023392801
+        }
+      }
+    },
+    "Assert": {
+      "Assert": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674023403564
+        }
+      }
+    },
+    "AssertionError": {
+      "AssertionError": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674023455922
+        }
+      }
+    },
+    "string": {
+      "string": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1674990913084
+        }
+      }
+    },
+    "Raise": {
+      "Raise": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674023660500
+        }
+      }
+    },
+    "expression": {
+      "expression": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674023743664
+        }
+      }
+    },
+    "NameError": {
+      "NameError": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674023900913
+        }
+      }
+    },
+    "iterable": {
+      "iterable": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1674277254305
+        }
+      }
+    },
+    "values": {
+      "values": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1674027355128
+        }
+      }
+    },
+    "Return": {
+      "Return": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674026697309
+        }
+      }
+    },
+    "description": {
+      "description": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674027258814
+        }
+      }
+    },
+    "branches": {
+      "branches": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674870204833
+        }
+      }
+    },
+    "Processing": {
+      "Processing": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674027903794
+        }
+      }
+    },
+    "Trees": {
+      "Trees": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674029108534
+        }
+      }
+    },
+    "creating": {
+      "creating": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674028747000
+        }
+      }
+    },
+    "recursive": {
+      "recursive": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674028765774
+        }
+      }
+    },
+    "python": {
+      "python": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674791139482
+        }
+      }
+    },
+    "objects": {
+      "objects": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1674989315372
+        }
+      }
+    },
+    "mystery": {
+      "mystery": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674197573027
+        }
+      }
+    },
+    "Mutation": {
+      "Mutation": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674875294142
+        }
+      }
+    },
+    "Identity": {
+      "Identity": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674198553330
+        }
+      }
+    },
+    "evaluates": {
+      "evaluates": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1674198646829
+        }
+      }
+    },
+    "object": {
+      "object": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1674989508153
+        }
+      }
+    },
+    "expressions": {
+      "expressions": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1675120444903
+        }
+      }
+    },
+    "equality": {
+      "equality": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674198653339
+        }
+      }
+    },
+    "Dangers": {
+      "Dangers": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674198817162
+        }
+      }
+    },
+    "right": {
+      "right": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674200150259
+        }
+      }
+    },
+    "Statements": {
+      "Statements": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1674201748515
+        }
+      }
+    },
+    "Assignment": {
+      "Assignment": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674201746181
+        }
+      }
+    },
+    "non-local": {
+      "non-local": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674203125225
+        }
+      }
+    },
+    "Mutable": {
+      "Mutable": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674203301446
+        }
+      }
+    },
+    "Functions": {
+      "Functions": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674203305516
+        }
+      }
+    },
+    "referential": {
+      "referential": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674218516276
+        }
+      }
+    },
+    "transparency": {
+      "transparency": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674218522892
+        }
+      }
+    },
+    "environment": {
+      "environment": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674218557457
+        }
+      }
+    },
+    "Lab07": {
+      "Lab07": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674261308744
+        }
+      }
+    },
+    "limit+1": {
+      "limit+1": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674261862351
+        }
+      }
+    },
+    "Functions#Homework": {
+      "Functions#Homework": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674262035272
+        }
+      }
+    },
+    "Overleaf": {
+      "Overleaf": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674267656343
+        }
+      }
+    },
+    "iterator": {
+      "iterator": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674395147938
+        }
+      }
+    },
+    "Iterator": {
+      "Iterator": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674277011956
+        }
+      }
+    },
+    "Dictionary": {
+      "Dictionary": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674276435760
+        }
+      }
+    },
+    "Iterate": {
+      "Iterate": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674277246231
+        }
+      }
+    },
+    "order": {
+      "order": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674277305975
+        }
+      }
+    },
+    "container": {
+      "container": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674277330935
+        }
+      }
+    },
+    "generator": {
+      "generator": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674278170377
+        }
+      }
+    },
+    "Generators": {
+      "Generators": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674278786534
+        }
+      }
+    },
+    "Iterators": {
+      "Iterators": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1674791199150
+        }
+      }
+    },
+    "Yield": {
+      "Yield": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674278794757
+        }
+      }
+    },
+    "yield": {
+      "yield": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674395162476
+        }
+      }
+    },
+    "statements": {
+      "statements": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674450569825
+        }
+      }
+    },
+    "account_holder": {
+      "account_holder": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1674721996935
+        }
+      }
+    },
+    "identity": {
+      "identity": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674720269182
+        }
+      }
+    },
+    "assignment": {
+      "assignment": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674720733928
+        }
+      }
+    },
+    "Attributes": {
+      "Attributes": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1674804208395
+        }
+      }
+    },
+    "balance": {
+      "balance": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674721982728
+        }
+      }
+    },
+    "Methods": {
+      "Methods": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674721661211
+        }
+      }
+    },
+    "attributes": {
+      "attributes": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1674799534824
+        }
+      }
+    },
+    "holder": {
+      "holder": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674721990367
+        }
+      }
+    },
+    "interest": {
+      "interest": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674799139297
+        }
+      }
+    },
+    "Inheritance": {
+      "Inheritance": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1674799447400
+        },
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674821903879
+        }
+      }
+    },
+    "motorcycle": {
+      "motorcycle": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674802729870
+        }
+      }
+    },
+    "Object": {
+      "Object": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674819928256
+        }
+      }
+    },
+    "subclass": {
+      "subclass": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674821910223
+        }
+      }
+    },
+    "Attribute": {
+      "Attribute": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674822092401
+        }
+      }
+    },
+    "Names": {
+      "Names": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674822094920
+        }
+      }
+    },
+    "instance": {
+      "instance": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1675478409935
+        }
+      }
+    },
+    "Class": {
+      "Class": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674825457319
+        }
+      }
+    },
+    "label": {
+      "label": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674869736955
+        }
+      }
+    },
+    "counted": {
+      "counted": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1674871555106
+        }
+      }
+    },
+    "computed": {
+      "computed": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674871872645
+        }
+      }
+    },
+    "square（）": {
+      "square（）": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674873398868
+        }
+      }
+    },
+    "first": {
+      "first": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674875198228
+        }
+      }
+    },
+    "empty": {
+      "empty": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674875184957
+        }
+      }
+    },
+    "pruning": {
+      "pruning": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674875334916
+        }
+      }
+    },
+    "representation": {
+      "representation": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674989468491
+        }
+      }
+    },
+    "Objects": {
+      "Objects": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1674989638487
+        }
+      }
+    },
+    "Fraction": {
+      "Fraction": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674989932955
+        }
+      }
+    },
+    "World": {
+      "World": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674990487297
+        }
+      }
+    },
+    "dataview": {
+      "dataview": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1674990755309
+        }
+      }
+    },
+    "found": {
+      "found": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674991080283
+        }
+      }
+    },
+    "interface": {
+      "interface": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674991948209
+        }
+      }
+    },
+    "invoked": {
+      "invoked": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1675477653380
+        }
+      }
+    },
+    "Lists#特殊方法": {
+      "Lists#特殊方法": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674995507932
+        }
+      }
+    },
+    "Sets（集合））": {
+      "Sets（集合））": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674995858588
+        }
+      }
+    },
+    "expresii": {
+      "expresii": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675085680942
+        }
+      }
+    },
+    "quotient": {
+      "quotient": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1675085903344
+        }
+      }
+    },
+    "下面的，alternative": {
+      "下面的，alternative": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675120284062
+        }
+      }
+    },
+    "Expression": {
+      "Expression": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675121025524
+        }
+      }
+    },
+    "Expressions": {
+      "Expressions": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675121027010
+        }
+      }
+    },
+    "lists": {
+      "lists": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1675122112224
+        }
+      }
+    },
+    "languages": {
+      "languages": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675130927746
+        }
+      }
+    },
+    "commit": {
+      "commit": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675175510844
+        }
+      }
+    },
+    "Hello World": {
+      "Hello World": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675303810389
+        }
+      }
+    },
+    "Hello": {
+      "Hello": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675303818562
+        }
+      }
+    },
+    "Funcrions": {
+      "Funcrions": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675304420890
+        }
+      }
+    },
+    "println": {
+      "println": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675304688063
+        }
+      }
+    },
+    "Title": {
+      "Title": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675324498589
+        }
+      }
+    },
+    "collapse": {
+      "collapse": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675324961713
+        }
+      }
+    },
+    "length": {
+      "length": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675435142705
+        }
+      }
+    },
+    "Compilation": {
+      "Compilation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675474645255
+        }
+      }
+    },
+    "weightInPounds": {
+      "weightInPounds": {
+        "currentFile": {
+          "count": 6,
+          "lastUpdated": 1675479070529
+        }
+      }
+    },
+    "makeNoise": {
+      "makeNoise": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1675477672526
+        }
+      }
+    },
+    "Instantiating": {
+      "Instantiating": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675477544149
+        }
+      }
+    },
+    "Instance": {
+      "Instance": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675477646153
+        }
+      }
+    },
+    "methods": {
+      "methods": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675477649503
+        }
+      }
+    },
+    "non-static": {
+      "non-static": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675479154932
+        }
+      }
+    },
+    "Standard": {
+      "Standard": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1675560668517
+        }
+      }
+    },
+    "Output": {
+      "Output": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1675554009021
+        }
+      }
+    },
+    "boolean": {
+      "boolean": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1675575006545
+        }
+      }
+    },
+    "hasNextChar": {
+      "hasNextChar": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675554253751
+        }
+      }
+    },
+    "readString": {
+      "readString": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675554304257
+        }
+      }
+    },
+    "Piping": {
+      "Piping": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675554788941
+        }
+      }
+    },
+    "Java基础编程": {
+      "Java基础编程": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675556908494
+        }
+      }
+    },
+    "Drawing": {
+      "Drawing": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675560727436
+        }
+      }
+    },
+    "Command": {
+      "Command": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675560730112
+        }
+      }
+    },
+    "Commands": {
+      "Commands": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675567518375
+        }
+      }
+    },
+    "StdDraw{": {
+      "StdDraw{": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675567533886
+        }
+      }
+    },
+    "setPenRadius": {
+      "setPenRadius": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675567833535
+        }
+      }
+    },
+    "Color": {
+      "Color": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675574331016
+        }
+      }
+    },
+    "default": {
+      "default": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675574441462
+        }
+      }
+    },
+    "Buffering": {
+      "Buffering": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675574733977
+        }
+      }
+    },
+    "Images": {
+      "Images": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675574885820
+        }
+      }
+    },
+    "Walrus": {
+      "Walrus": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675598080410
+        }
+      }
+    },
+    "References, Recursion, and Lists": {
+      "References, Recursion, and Lists": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675599263388
+        }
+      }
+    },
+    "variables": {
+      "variables": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1675599752944
+        }
+      }
+    },
+    "allocates": {
+      "allocates": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675599781738
+        }
+      }
+    },
+    "public": {
+      "public": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675601530558
+        }
+      }
+    },
+    "IntList": {
+      "IntList": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675601626575
+        }
+      }
+    },
+    "totalSize": {
+      "totalSize": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1675602867058
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "recentFiles": [
+    {
+      "basename": "相关系数",
+      "path": "数学建模/相关系数.md"
+    },
+    {
+      "basename": "拟合算法",
+      "path": "数学建模/拟合算法.md"
+    },
+    {
+      "basename": "插值法",
+      "path": "数学建模/插值法.md"
+    },
+    {
+      "basename": "TOPSIS法",
+      "path": "数学建模/TOPSIS法.md"
+    },
+    {
+      "basename": "Reinforcement Learning 强化学习简介",
+      "path": "CS/机器学习/Unsupervised Learning,Recommendation,Reinforcemnt learning/Reinforcement Learning 强化学习简介.md"
+    },
+    {
+      "basename": "层次分析法模型",
+      "path": "数学建模/层次分析法模型.md"
+    },
+    {
+      "basename": "Continuous State Spaces（连续状态空间）",
+      "path": "CS/机器学习/Unsupervised Learning,Recommendation,Reinforcemnt learning/Continuous State Spaces（连续状态空间）.md"
+    },
+    {
+      "basename": "Bellman Equation贝尔曼方程",
+      "path": "CS/机器学习/Unsupervised Learning,Recommendation,Reinforcemnt learning/Bellman Equation贝尔曼方程.md"
+    },
+    {
+      "basename": "Random (stochastic) environment 随机环境",
+      "path": "CS/机器学习/Unsupervised Learning,Recommendation,Reinforcemnt learning/Random (stochastic) environment 随机环境.md"
+    },
+    {
+      "basename": "Skewed Data(数据分布不均衡)",
+      "path": "CS/机器学习/Advanced Algorithm/Skewed Data(数据分布不均衡).md"
+    },
+    {
+      "basename": "When to use decision trees(什么时候用决策树）",
+      "path": "CS/机器学习/Advanced Algorithm/When to use decision trees(什么时候用决策树）.md"
+    },
+    {
+      "basename": "Train a Neural Network",
+      "path": "CS/机器学习/Advanced Algorithm/Train a Neural Network.md"
+    },
+    {
+      "basename": "AlphaGo",
+      "path": "CS/机器学习/强化学习/AlphaGo.md"
+    },
+    {
+      "basename": "Actor-Critic Methods",
+      "path": "CS/机器学习/强化学习/Actor-Critic Methods.md"
+    },
+    {
+      "basename": "Policy-Based Reinforcement Learning",
+      "path": "CS/机器学习/强化学习/Policy-Based Reinforcement Learning.md"
+    },
+    {
+      "basename": "Terminology",
+      "path": "CS/机器学习/强化学习/Terminology.md"
+    },
+    {
+      "basename": "Value based Learning",
+      "path": "CS/机器学习/强化学习/Value based Learning.md"
+    },
+    {
+      "basename": "MDP",
+      "path": "Excalidraw/MDP.md"
+    },
+    {
+      "basename": "algorithm for tree traversal and node expansion",
+      "path": "Excalidraw/algorithm for tree traversal and node expansion.md"
+    },
+    {
+      "basename": "Principle Component Analysis PCA",
+      "path": "CS/机器学习/Unsupervised Learning,Recommendation,Reinforcemnt learning/Principle Component Analysis PCA.md"
+    },
+    {
+      "basename": "Making Recommendations(推荐算法)",
+      "path": "CS/机器学习/Unsupervised Learning,Recommendation,Reinforcemnt learning/Making Recommendations(推荐算法).md"
+    },
+    {
+      "basename": "Content-based filtering（内容-based算法)",
+      "path": "CS/机器学习/Unsupervised Learning,Recommendation,Reinforcemnt learning/Content-based filtering（内容-based算法).md"
+    },
+    {
+      "basename": "Machine Leaning algorithms",
+      "path": "CS/机器学习/Machine Leaning algorithms.md"
+    },
+    {
+      "basename": "Collaborative filtering algorithm（协同过滤算法)",
+      "path": "CS/机器学习/Unsupervised Learning,Recommendation,Reinforcemnt learning/Collaborative filtering algorithm（协同过滤算法).md"
+    },
+    {
+      "basename": "Finding related items(寻找相关事物的算法)",
+      "path": "CS/机器学习/Unsupervised Learning,Recommendation,Reinforcemnt learning/Finding related items(寻找相关事物的算法).md"
+    },
+    {
+      "basename": "Binary Labels（二元分类)",
+      "path": "CS/机器学习/Unsupervised Learning,Recommendation,Reinforcemnt learning/Binary Labels（二元分类).md"
+    },
+    {
+      "basename": "线性回归模型(Linear Regression)",
+      "path": "CS/机器学习/线性回归模型(Linear Regression).md"
+    },
+    {
+      "basename": "Curling Strategy",
+      "path": "CS/机器学习/Curling Strategy.md"
+    },
+    {
+      "basename": "Anomaly Detection(异常检测)",
+      "path": "CS/机器学习/Unsupervised Learning,Recommendation,Reinforcemnt learning/Anomaly Detection(异常检测).md"
+    },
+    {
+      "basename": "Clustering(聚类)",
+      "path": "CS/机器学习/Unsupervised Learning,Recommendation,Reinforcemnt learning/Clustering(聚类).md"
+    },
+    {
+      "basename": "Pasted Image 20230621232116_484",
+      "path": "attachment/Pasted Image 20230621232116_484.jpg"
+    },
+    {
+      "basename": "Decision Tree Model 决策树模型",
+      "path": "CS/机器学习/Advanced Algorithm/Decision Tree Model 决策树模型.md"
+    },
+    {
+      "basename": "引用、代码环境",
+      "path": "Tools/Latex/引用、代码环境.md"
+    },
+    {
+      "basename": "latex源文件的基本结构",
+      "path": "Tools/Latex/latex源文件的基本结构.md"
+    },
+    {
+      "basename": "Latex 宏包和文档类",
+      "path": "Tools/Latex/Latex 宏包和文档类.md"
+    },
+    {
+      "basename": "命令和代码结构",
+      "path": "Tools/Latex/命令和代码结构.md"
+    },
+    {
+      "basename": "Classification with multiple outputs(多种输出）",
+      "path": "CS/机器学习/Advanced Algorithm/Classification with multiple outputs(多种输出）.md"
+    },
+    {
+      "basename": "Implementation in Tensorflow",
+      "path": "CS/机器学习/Advanced Algorithm/Implementation in Tensorflow.md"
+    },
+    {
+      "basename": "树集成",
+      "path": "CS/机器学习/Advanced Algorithm/树集成.md"
+    },
+    {
+      "basename": "Full cycle of a machine learning project",
+      "path": "CS/机器学习/Advanced Algorithm/Full cycle of a machine learning project.md"
+    },
+    {
+      "basename": "Transfer Learning(迁移学习）",
+      "path": "CS/机器学习/Advanced Algorithm/Transfer Learning(迁移学习）.md"
+    },
+    {
+      "basename": "Machine Learning Development Process 还有一些技巧",
+      "path": "CS/机器学习/Advanced Algorithm/Machine Learning Development Process 还有一些技巧.md"
+    },
+    {
+      "basename": "Bias and Variance(偏差和方差)",
+      "path": "CS/机器学习/Advanced Algorithm/Bias and Variance(偏差和方差).md"
+    },
+    {
+      "basename": "Evaluating a mode(评估模型)、Model Selection(模型选择)",
+      "path": "CS/机器学习/Advanced Algorithm/Evaluating a mode(评估模型)、Model Selection(模型选择).md"
+    },
+    {
+      "basename": "Advanced Optimization(高级优化）",
+      "path": "CS/机器学习/Advanced Algorithm/Advanced Optimization(高级优化）.md"
+    },
+    {
+      "basename": "其他layer（Additional Layer Types)",
+      "path": "CS/机器学习/Advanced Algorithm/其他layer（Additional Layer Types).md"
+    },
+    {
+      "basename": "Activation Functions",
+      "path": "CS/机器学习/Advanced Algorithm/Activation Functions.md"
+    },
+    {
+      "basename": "微分方程在数学建模中的应用",
+      "path": "数学建模/微分方程在数学建模中的应用.md"
+    },
+    {
+      "basename": "数学建模竞赛的论文撰写",
+      "path": "数学建模/数学建模竞赛的论文撰写.md"
+    },
+    {
+      "basename": "2023-05-02-周二",
+      "path": "diary/2023-05-02-周二.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

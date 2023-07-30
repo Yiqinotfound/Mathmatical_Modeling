@@ -1,0 +1,35 @@
+{
+  "choices": [
+    {
+      "id": "268b04de-0b99-4e91-be21-553ce8a5c6fd",
+      "name": "TP-Note1",
+      "type": "Template",
+      "command": false,
+      "templatePath": "templates/TP-CS61B.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "CS/数据结构和算法/UCB CS61B"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": true
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false
+}

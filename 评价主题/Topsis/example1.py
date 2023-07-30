@@ -129,8 +129,9 @@ def topsis(x):
     dist_best = np.zeros(m)
     dist_worst = np.zeros(m)
     for i in range(m):
-        dist_best[i] = np.sqrt(sum((norm_x[i,:]-best)**2))
-        dist_worst[i] = np.sqrt(sum((norm_x[i,:]-worst)**2))
+        for j in range(n):
+            dist_best[i] += weight_[j]*(norm_x[i,j]-best[j])**2
+            dist_worst[i] += weight_[j]*(norm_x[i,j]-worst[j])**2
         
     print('各个对象与最优方案的距离为：',dist_best)
     print('各个对象与最劣方案的距离为：',dist_worst)
